@@ -1,0 +1,14 @@
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/bin/Debug/net8.0/WeekFiveArray
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/bin/Debug/net8.0/WeekFiveArray.deps.json
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/bin/Debug/net8.0/WeekFiveArray.runtimeconfig.json
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/bin/Debug/net8.0/WeekFiveArray.dll
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/bin/Debug/net8.0/WeekFiveArray.pdb
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/obj/Debug/net8.0/WeekFiveArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/obj/Debug/net8.0/WeekFiveArray.AssemblyInfoInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/obj/Debug/net8.0/WeekFiveArray.AssemblyInfo.cs
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/obj/Debug/net8.0/WeekFiveArray.csproj.CoreCompileInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/obj/Debug/net8.0/WeekFiveArray.dll
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/obj/Debug/net8.0/refint/WeekFiveArray.dll
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/obj/Debug/net8.0/WeekFiveArray.pdb
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/obj/Debug/net8.0/WeekFiveArray.genruntimeconfig.cache
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveArray/WeekFiveArray/obj/Debug/net8.0/ref/WeekFiveArray.dll
